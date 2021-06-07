@@ -1,6 +1,6 @@
 import ky from 'ky';
 
-const baseUrl = 'http://localhost:8080/records';
+const baseUrl = 'https://localhost:8080/records';
 
 const api = {
     index() {
